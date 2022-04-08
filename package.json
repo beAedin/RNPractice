@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "faker": "^5.5.3",
+    "moment": "^2.29.2",
+    "moment-with-locales-es6": "^1.0.1",
     "react": "17.0.2",
     "react-native": "^0.67.4",
     "react-native-paper": "^4.12.0",

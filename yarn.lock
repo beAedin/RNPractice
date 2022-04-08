@@ -5080,6 +5080,16 @@
   dependencies:
     "minimist" "^1.2.6"
 
+"moment-with-locales-es6@^1.0.1":
+  "integrity" "sha512-aKHuk7hHGVGk1X86rhu4aVwSEpBEwL3Lo5BEvZnqGueZeVK9pfpTrlLT3qN4A64vMkiKkxWpwQCcyg2YpoZGaQ=="
+  "resolved" "https://registry.npmjs.org/moment-with-locales-es6/-/moment-with-locales-es6-1.0.1.tgz"
+  "version" "1.0.1"
+
+"moment@^2.0.0", "moment@^2.29.2":
+  "integrity" "sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg=="
+  "resolved" "https://registry.npmjs.org/moment/-/moment-2.29.2.tgz"
+  "version" "2.29.2"
+
 "ms@2.0.0":
   "integrity" "sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g="
   "resolved" "https://registry.npmjs.org/ms/-/ms-2.0.0.tgz"
